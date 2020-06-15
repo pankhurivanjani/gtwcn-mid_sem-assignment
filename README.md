@@ -37,6 +37,9 @@ alternatives among which the best one, i.e. one having maximum vote sum will be 
 
 * Final figure showing allocation of all 100 base stations in the city
 
+![result2](result2.png)
+
+
 * bstation_location.csv having the data and information of the location for all the cells
 
 col 1 - serial number of the cell
