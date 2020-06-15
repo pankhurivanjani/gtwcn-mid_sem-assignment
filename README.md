@@ -40,8 +40,8 @@ alternatives among which the best one, i.e. one having maximum vote sum will be 
 ![result2](result2.png)
 
 
-* bstation_location.csv having the data and information of the location for all the cells
-
+* For further information: 'bstation_location.csv' has the data and location for all the cells in coordinates. The column information is mentioned below:
+ 
 col 1 - serial number of the cell
 
 col 2 - X coordinate of the base station
@@ -56,5 +56,16 @@ col 3 - Y coordinate of the base station
 ![csv3](data_readme/csv3.png)
 ![csv4](data_readme/csv4.png)
 
+# *Notes:*
 
+**Why Hexagonal cells to represent the cell coverage?** 
 
+*This information is taken from reading sources from web*
+
+* Covers an entire area without overlapping.
+
+* The frequency reuse become possible using this shape.
+
+* The radiation pattern of the antennas used is 60 degree which means 6 are required for the full 360 degrees coverage which is the same no. of sides the hexagon consists.(equidistant antennae)
+
+* Minimum interference.
