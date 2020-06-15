@@ -48,7 +48,13 @@ col 2 - X coordinate of the base station
 
 col 3 - Y coordinate of the base station
 
-![result2](bstation_location.csv)
+![csvfull-file](bstation_location.csv)
+
+
+![csv1](data_readme/csv1.png)
+![csv2](data_readme/csv2.png)
+![csv3](data_readme/csv3.png)
+![csv4](data_readme/csv4.png)
 
 
 
