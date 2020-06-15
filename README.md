@@ -48,6 +48,7 @@ col 2 - X coordinate of the base station
 
 col 3 - Y coordinate of the base station
 
+![result2](bstation_location.csv)
 
 
 
