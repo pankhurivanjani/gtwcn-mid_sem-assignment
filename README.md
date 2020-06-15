@@ -33,6 +33,9 @@ alternatives among which the best one, i.e. one having maximum vote sum will be 
 
 * Requirements : Matlab 2020a (May work with previous versions too, not tested yet)
 
+* Main code file:  bs_locater.m
+
+
 **Results**
 
 * Final figure showing allocation of all 100 base stations in the city
